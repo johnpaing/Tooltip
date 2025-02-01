@@ -1,2 +1,2 @@
 # Tooltip
-Sample solution for Website [https://johnpaing.github.io/grid-pic/] from roadmap.sh[https://roadmap.sh/projects/image-grid]
+Sample solution for Website [] from roadmap.sh[https://roadmap.sh/projects/image-grid]
